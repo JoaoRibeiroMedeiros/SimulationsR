@@ -1,2 +1,2 @@
 # SimulationsR
-extensive work in simulationg langevin-like systems
+extensive work in simulating langevin-like systems
